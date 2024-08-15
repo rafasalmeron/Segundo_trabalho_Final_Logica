@@ -49,22 +49,22 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  <br />
  <sub><b>Rafael Salmeron</b></sub></a> <a href="https://github.com/rafasalmeron"></a></td>
 
- <td align="center"><a href="https://github.com/rafasalmeron"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/" width="100px" alt=""/>
+ <td align="center"><a href="https://github.com/Felipe-Goncalves-Lima"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/163328613?v=4" width="100px" alt=""/>
  <br />
- <sub><b>Rafael Salmeron</b></sub></a> <a href="https://github.com/rafasalmeron"></a></td>
+ <sub><b>Felipe Gonçalves</b></sub></a> <a href="https://github.com/Felipe-Goncalves-Lima"></a></td>
 
 
- <td align="center"><a href="https://github.com/rafasalmeron"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/" width="100px" alt=""/>
+ <td align="center"><a href="https://github.com/PatrickRamosTI"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/177888812?v=4" width="100px" alt=""/>
  <br />
- <sub><b>Rafael Salmeron</b></sub></a> <a href="https://github.com/rafasalmeron"></a></td>
+ <sub><b>Patrick Ramos</b></sub></a> <a href="https://github.com/PatrickRamosTI"></a></td>
  
- <td align="center"><a href="https://github.com/rafasalmeron"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/" width="100px" alt=""/>
+ <td align="center"><a href="https://github.com/suru13"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/78802877?v=4" width="100px" alt=""/>
  <br />
- <sub><b>Rafael Salmeron</b></sub></a> <a href="https://github.com/rafasalmeron"></a></td>
+ <sub><b>Suru</b></sub></a> <a href="https://github.com/suru13"></a></td>
  
-  <td align="center"><a href="https://github.com/rafasalmeron"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/" width="100px" alt=""/>
+  <td align="center"><a href="https://github.com/"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/" width="100px" alt=""/>
  <br />
- <sub><b>Rafael Salmeron</b></sub></a> <a href="https://github.com/rafasalmeron"></a></td>
+ <sub><b>Deny</b></sub></a> <a href="https://github.com/"></a></td>
 
 
 </tr>
