@@ -40,7 +40,7 @@ programa
 		escreva("Qual o número da vaga? \n\n")
 		leia(b)
 		//b=sorteia(0,30)
-		se(b>=0 e b<30){
+		se(b>=0 e b<=30){
 		para(inteiro i=0; i < 30; i++){
 			cadeia c					
 				se(a[b-1]=="")
@@ -49,7 +49,7 @@ programa
 		             escreva("Qual o carro a estacionar?\n\n") 	
 		             leia(c)		             		            	
 	                  a[b-1]=c             
-	                  escreva(a[b]," Estacionado na Vaga: ",b,"\n\n")
+	                  escreva(a[b-1]," Estacionado na Vaga: ",b,"\n\n")
 	                  pare	                  	     
 	              	}senao se(a[i]!=""){
 	              		  }senao{escreva("\n Vaga Ocupada! \n\n")pare}
@@ -60,7 +60,7 @@ programa
 	funcao saida(cadeia a[], inteiro b){		
 		escreva("Qual o número da vaga? \n\n")
 		leia(b)
-		se(b>=0 e b<30){
+		se(b>=0 e b<=30){
 		para(inteiro i=0; i < 30; i++){
 			inteiro c					
 				se(a[b-1]!=""){escreva(a[b-1]," é o seu carro?\n\n")
@@ -82,7 +82,7 @@ programa
               para(inteiro i = 0; i < 30; i++){
               	se(a[i] != ""){
               		escreva(i+1," ---> ",a[i],"\n")
-              		}senao{escreva(i+1," ---> Vazio \n")}              	    
+              		}senao{escreva(i+1," --->\n")}              	    
               }
 		}
 	// CASO 0	
